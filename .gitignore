@@ -1,2 +1,10 @@
 sample_submission_copy/
 data/
+src/__pycache__/
+src/baselines/__pycache__/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
